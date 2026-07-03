@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-kol-outreach"
+name: gingiris-kol-outreach
 description: |
   🇺🇸 KOL Outreach & Influencer Marketing Playbook — Complete SOP from discovery to ROI tracking. Battle-tested with 200+ KOL campaigns at AFFiNE (60k stars). Includes pricing benchmarks, email templates, content packages, platform algorithm guides, and data-driven evaluation frameworks.
 

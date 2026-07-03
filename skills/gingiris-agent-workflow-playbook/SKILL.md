@@ -1,5 +1,5 @@
 ---
-name: "gingiris-agent-workflow-playbook"
+name: agent-workflow-playbook
 description: |
   AI Agent Workflow & Skill Architecture Guide — Design patterns for building autonomous AI agent systems, plugin marketplaces, and multi-agent orchestration. Battle-tested framework from shipping 200+ skills on ClawHub. By @WeiYipei.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/agent-workflow-playbook

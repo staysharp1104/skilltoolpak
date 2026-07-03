@@ -1,5 +1,5 @@
 ---
-name: "gingiris-open-source-marketing-playbook"
+name: open-source-marketing-playbook
 description: |
   Marketing playbook for open-source projects led by non-technical founders. Covers README optimization, community building, contributor attraction, and translating OSS traction into revenue. By @WeiYipei.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/open-source-marketing-playbook

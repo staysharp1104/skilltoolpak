@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-seo-geo-agent"
+name: gingiris-seo-geo-agent
 description: |
   🇺🇸 SEO/GEO Agent Operations SOP — A complete hands-on playbook to run an autonomous SEO Agent that achieves ~32K impressions in one month. Covers Week 0-4 timeline, daily/weekly/monthly SOPs, keyword-to-landing-page mapping, CTA conversion blocks, daily report template, GEO triple combo (IndexNow + robots.txt + AI-friendly format), tool stack selection, and Owner Checklist. Battle-tested with real content site data. **Optimized for dev tools / OSS / B2B SaaS. 2C products: see gingiris-seo-geo/references/2c-adaptation.md for adjusted parameters.**
 

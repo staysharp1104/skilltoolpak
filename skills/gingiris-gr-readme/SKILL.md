@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-readme"
+name: gr-readme
 description: |
   🇺🇸 GitHub README Writing System — Craft a README that converts visitors to stars in <3 seconds. Proven structure from AFFiNE's 0→60K star journey: tagline engineering, first-screen law, section-by-section copywriting guide, Claude Code integration section, anti-patterns, and a pre-publish checklist. Use when you need to write or rewrite a specific README file.
 

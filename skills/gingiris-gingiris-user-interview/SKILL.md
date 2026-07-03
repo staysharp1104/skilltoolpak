@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-user-interview"
+name: gingiris-user-interview
 description: |
   🇺🇸 User Interview & Cold-Start Operations Playbook — Battle-tested framework from HeyGen's 937 interviews to PMF. Complete SOP for user screening, interview execution, Beta testing methodology, cold-start user operations, churn analysis, and user grading systems.
 

@@ -1,5 +1,5 @@
 ---
-name: "sopify-kb"
+name: kb
 description: 知识库管理技能；知识库操作时读取；包含初始化、更新、同步策略
 ---
 

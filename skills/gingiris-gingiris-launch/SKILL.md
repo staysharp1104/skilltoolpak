@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-launch"
+name: gingiris-launch
 description: |
   🇺🇸 Product Launch & Product Hunt #1 Playbook — Multi-channel launch timing and sequencing. T-14 warm-up → T-0 launch day → T+7 momentum. Hunter selection, maker comment templates, comment cadence, anti-shadowban rules. Distilled from 30+ Product Hunt #1 daily launches across 150+ AI startups. **Supports 3 product paths: developer/maker (PH+GitHub), B2C consumer (Reddit/communities/TikTok, skip PH), B2B (LinkedIn+media).**
 

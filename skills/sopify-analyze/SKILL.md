@@ -1,5 +1,5 @@
 ---
-name: "sopify-analyze"
+name: analyze
 description: 需求分析阶段入口；聚合评分、追问与范围判定规则，按需加载 references/assets/scripts。
 ---
 

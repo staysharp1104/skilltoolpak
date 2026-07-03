@@ -1,23 +1,28 @@
 {
-  "name": "coder-skill-toolkit",
-  "displayName": "Coder Skill Toolkit — 全能技能工具包",
-  "version": "2.0.0",
-  "description": "All-in-one skill toolkit aggregating 474 skills from 10 plugins.",
-  "descriptionZh": "全能技能工具包 v2。聚合全部 10 款插件的 474 个技能，一包安装全量可用。",
+  "name": "webcrawler-all-skills",
+  "displayName": "WebCrawler 全能技能包",
+  "version": "1.0.0",
+  "description": "All 2813 skills from the WebCrawler project — engineering, SEO, design, AI, DevOps, data, marketing, trading, and more.",
+  "descriptionZh": "WebCrawler 项目全部 2,813 个技能打包。覆盖工程、AI、SEO、营销、交易、DevOps、设计、数据等全领域。",
   "author": {
-    "name": "Coder Toolkit"
+    "name": "Qoder"
   },
+  "homepage": "https://github.com/staysharp1104/WebCrawler",
+  "repository": "https://github.com/staysharp1104/WebCrawler",
   "keywords": [
     "qoder-plugin",
     "skill",
-    "toolkit",
-    "all-in-one"
+    "all-skills",
+    "webcrawler",
+    "collection"
   ],
   "category": "developer-tools",
   "tags": [
     "skill",
-    "toolkit",
-    "all"
+    "all-in-one",
+    "engineering",
+    "ai",
+    "seo"
   ],
   "skills": "./skills/"
 }

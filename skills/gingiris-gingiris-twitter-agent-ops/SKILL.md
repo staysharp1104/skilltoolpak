@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-twitter-agent-ops"
+name: gingiris-twitter-agent-ops
 version: 1.0.0
 description: |
   You know you should post on X every day, but writing tweets eats your evenings — and when an AI writes them for you, they sound nothing like you. This skill turns any AI agent into a ghostwriter that actually sounds like you, with a battle-tested SOP that grew a real account +60% in 45 days, fully agent-operated.

@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-opensource"
+name: gingiris-opensource
 description: |
   🇺🇸 Open-Source Marketing & GitHub Stars Growth System — Decision framework for each growth stage. Pre-launch readiness → Show HN / Reddit / Product Hunt launch → 6-month growth loop. README rules, KOL outreach, dev-content matrix (dev.to / Zenn), anti-star-farming. Built from taking AFFiNE 0 → 60K stars.
 

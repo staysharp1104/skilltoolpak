@@ -1,5 +1,5 @@
 ---
-name: "gingiris-startup-consultant"
+name: startup-consultant
 description: |
   Startup growth consulting agent specializing in Product Hunt launches, open-source marketing, and Go-to-Market audits. Get expert-level strategic reviews and actionable recommendations. By @WeiYipei — fractional growth lead for AI startups.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/startup-consultant

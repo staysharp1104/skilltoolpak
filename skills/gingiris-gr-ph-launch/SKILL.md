@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-ph-launch"
+name: gr-ph-launch
 description: >
   Product Hunt 发布剧本。从 30x 日冠经验提炼的完整 GTM 流程：T-14 预热 → T-0 发布日 → T+7 post-launch。
   覆盖 hunter 选择、maker comment、community seeding、评论节奏、防踩雷。当用户说"我要发 PH"、

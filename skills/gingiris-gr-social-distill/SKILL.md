@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-social-distill"
+name: gr-social-distill
 description: >
   把一篇已发布的博客拆成 4 个社媒变体：X thread（10-15 推）、小红书笔记（3-5 图）、LinkedIn carousel、
   dev.to / Zenn 二发。目标：在不新写博客的前提下激活 Organic Social 分发渠道。

@@ -1,8 +1,8 @@
 # 现有 Skill 功能清单分析
 
 > 分析时间: 2026-07-03  
-> 总技能数: 474 个  
-> 插件来源: 10 个（Superpowers / BB Browser / UI-UX Pro Max / Gingiris Skills / Rlues VibeCoding / CataForge / Sopify / Hermes Skills / UI-UX Pro Max Skill / GitHubM）
+> 总技能数: 2813+ 个  
+> 插件来源: 15 个（Superpowers / BB Browser / UI-UX Pro Max / Gingiris Skills / Rlues VibeCoding / CataForge / Sopify / Hermes Skills / UI-UX Pro Max Skill / GitHubM / ECC / impeccable / wiseflow / xiaohongshu-mcp / openclaw-master-skills）
 
 ---
 
@@ -410,3 +410,249 @@
 | **翻译需求**（多语言/国际化） | githubm-text-translation | ⭐⭐⭐⭐⭐ |
 | **股票/金融行情查询** | githubm-stock-realtime-quote, githubm-currency-exchange-rate | ⭐⭐⭐⭐ |
 | **企业信息调研**（竞品公司/招聘/专利） | githubm-company-info-lookup, githubm-company-hiring-data, githubm-patent-search | ⭐⭐⭐⭐ |
+
+---
+
+## 十三、ECC（277 个技能）
+
+> 工程能力全集 — 覆盖 Agent 架构、TDD、代码审查、安全、DevOps、性能优化等全链路工程实践
+
+ECC（Engineering Command Center）来自 [affaan-m/ECC](https://github.com/affaan-m/ECC) 项目，是一套完整的工程 Agent 技能体系。
+
+### 13.1 核心工程技能
+
+| 技能分类 | 技能数 | 代表性技能 | 核心能力 |
+|---------|:------:|-----------|---------|
+| **Agent 架构与工程** | 15+ | agent-harness-construction, agent-architecture-audit, agent-introspection-debugging, agentic-engineering, agentic-os, autonomous-agent-harness, autonomous-loops | Agent 系统设计、自省调试、自主循环 |
+| **测试与质量** | 20+ | test-driven-development, ai-regression-testing, browser-qa, benchmark, benchmark-methodology, benchmark-optimization-loop | TDD 流程、回归测试、基准测试优化 |
+| **代码审查与安全** | 15+ | code-review, security-audit, vulnerability-scanning, secrets-detection, dependency-check | 安全审计、漏洞扫描、秘密检测 |
+| **架构与设计** | 20+ | architecture-decision-records, api-design, backend-patterns, android-clean-architecture, angular-developer | ADR、API设计、架构模式 |
+| **DevOps 与部署** | 20+ | devops-pipeline, dockerfile-generation, kubernetes-config, ci-cd-workflow, infrastructure-as-code | CI/CD、容器化、基础设施即代码 |
+| **性能优化** | 10+ | performance-audit, memory-profiling, bundle-optimization, database-query-optimization | 性能审计、内存分析、SQL 优化 |
+| **文档与知识管理** | 10+ | documentation-generation, knowledge-base-creation, api-documentation, changelog-generation | 自动文档生成、知识库 |
+| **前端工程** | 15+ | frontend-patterns, react-component-architecture, state-management-design, css-architecture, accessibility (a11y) | 前端架构、组件设计、无障碍 |
+| **后端工程** | 20+ | backend-patterns, microservice-design, graphql-api-design, rest-api-best-practices, database-schema-design | 微服务、GraphQL、REST、数据库 |
+| **AI/ML 工程** | 10+ | ml-pipeline-design, model-evaluation, prompt-engineering, ai-first-engineering | ML 管道、模型评估、Prompt 工程 |
+| **项目管理** | 10+ | sprint-planning, task-estimation, technical-debt-management, release-planning | 敏捷管理、技术债治理 |
+| **移动开发** | 5+ | ios-development, android-development, react-native-patterns | iOS/Android/RN 开发 |
+| **游戏开发** | 5+ | game-architecture, unity-patterns, unreal-engine-workflows | Unity/Unreal 开发 |
+| **其他专项** | 100+ | blender-motion-state-inspection, brand-discovery, browser-qa, api-connector-builder, accessibility, benchmark-optimization-loop, blueprint | 跨领域专项能力 |
+
+---
+
+## 十四、impeccable（1 个技能）
+
+> 前端设计精炼与重构 — 从 UX 审查到视觉层次再到微交互的全链路设计优化
+
+| 技能名称 | 功能描述 | 触发场景 |
+|---------|---------|---------|
+| **impeccable** | 前端设计精炼/重构/优化/审计/抛光/清晰化/简化/强化/适配/动效/配色/提取。覆盖网站、落地页、仪表盘、产品 UI、应用外壳、组件、表单、设置页、引导页和空状态。处理 UX 审查、视觉层次、信息架构、认知负载、无障碍、性能、响应式行为、主题化、反模式、排版、字体、间距、布局、对齐、色彩、动效、微交互、UX 文案、错误状态、边界情况、国际化及可复用设计系统/Token。也用于平淡设计变大胆、喧嚣设计变安静、浏览器中实时迭代 UI 元素 | 需要改进、优化或审核前端界面时 |
+
+> 配套参考文档 (`reference/`) 和自动化脚本 (`scripts/`) 已随插件安装
+
+---
+
+## 十五、wiseflow（19 个技能）
+
+> 智能工作流生态 — HRBP 人力资源管理、IT 工程运维、Crew 协同管理、SEO 等
+
+| 技能名称 | 功能描述 | 触发场景 |
+|---------|---------|---------|
+| **browser-guide** | 托管浏览器最佳实践：处理登录墙、验证码、Cookie 管理、会话保持 | 浏览器自动化遇到障碍时 |
+| **complex-task** | 复杂任务分解与编排策略 | 需要处理多步骤复杂任务时 |
+| **smart-search** | 智能搜索策略：多源交叉验证、信息聚合 | 需要深度调研时 |
+| **alicloud-find-skills** | 阿里云技能发现与调用路由 | 阿里云相关操作 |
+| **icp-exemption** | ICP 备案豁免查询与办理指南 | 国内服务器免备案场景 |
+| **icp-filing** | ICP 备案流程指导与状态查询 | 国内服务器备案需求 |
+| **seo** | SEO 执行指南：关键词、外链、内容优化 | 网站 SEO 优化需求 |
+| **tccli** | 腾讯云 CLI 操作指南 | 腾讯云资源管理 |
+| **hrbp-feedback-review** | HRBP 对外 Crew 表现分析审查 | 需要审查外部 Agent 表现时 |
+| **hrbp-list** | HRBP 外部 Crew 花名册管理与状态检查 | 查看/管理工作 Crew 时 |
+| **hrbp-modify** | HRBP 外部 Crew 配置修改 | 需要调整 Crew 配置时 |
+| **hrbp-recruit** | HRBP 招募与聘用新外部 Crew | 需要增加新的工作 Agent 时 |
+| **hrbp-remove** | HRBP 解除/下线外部 Crew | 需要移除 Agent 时 |
+| **hrbp-usage** | HRBP 使用指引与最佳实践 | 首次使用 HRBP 系统时 |
+| **crew-dismiss** | 内部 Crew 专员下线/解除流程 | 需要下线内部 Crew 时 |
+| **crew-list** | 内部 Crew 专员列表与状态查询 | 查看 Crew 状态时 |
+| **crew-recruit** | 内部 Crew 专员招募流程 | 扩充内部 Crew 时 |
+| **reminder** | 定时提醒与任务提醒管理 | 需要设置定时任务提醒 |
+| **work-channel-binding** | 工作频道绑定与消息路由配置 | 配置工作消息通道时 |
+
+---
+
+## 十六、xiaohongshu-mcp（1 个技能 + Go MCP 服务器）
+
+> 小红书内容发布 — 支持图文/长文双模式 + 网页自动提取发布
+
+| 技能名称 | 功能描述 | 触发场景 |
+|---------|---------|---------|
+| **post-to-xhs** | 小红书内容发布技能。支持两种发布模式：(1) 上传图文模式 - 图片+短文；(2) 写长文模式 - 长篇文章+排版模板。支持两种输入方式：用户提供完整内容和图片/图片URL直接发布；或提供网页URL自动提取内容和图片 | 需要在小红书平台发布内容时 |
+
+> 包含完整 Go 语言 MCP 服务器实现（main.go, mcp_server.go, mcp_handlers.go, service.go 等），以及账号管理 (`config/accounts.json`)、发布流水线脚本 (`scripts/cdp_publish.py`, `scripts/publish_pipeline.py`) 等配套工具
+
+---
+
+## 十七、openclaw-master-skills（2103 个技能）
+
+> 开放技能宇宙 — 2103 个跨领域技能的庞大生态库，覆盖 AI 工具、生产力、营销、前端、移动端、后端、DevOps 等几乎所有领域
+
+来自 [openclaw-master-skills](https://github.com/myclaw-ai/openclaw-master-skills) 项目，每周更新，是当前安装量最大的技能插件。
+
+### 17.1 领域分布概览
+
+| 能力域 | 估算技能数 | 典型技能举例 |
+|--------|:----------:|-------------|
+| 🤖 **AI 工具与 Agent** | 300+ | claude-api-anthropic, agent-framework, ai-workflow, prompt-engineering, model-deployment |
+| 🖥️ **前端开发** | 250+ | react-component, vue-component, nextjs-app, tailwind-styling, css-animation, html-template, web-component |
+| ⚙️ **后端开发** | 200+ | nodejs-api, python-backend, go-service, rust-app, graphql-server, rest-api, database-connector |
+| 🛠️ **DevOps 与云基础设施** | 150+ | docker-compose, kubernetes-deployment, terraform-module, ci-cd-pipeline, monitoring-setup, cloud-migration |
+| 📱 **移动端开发** | 100+ | ios-swift, android-kotlin, flutter-widget, react-native-component |
+| 🎯 **营销与增长** | 100+ | seo-optimizer, content-marketing, email-campaign, social-media-scheduler, ab-test-analyzer |
+| 📊 **数据与 AI/ML** | 100+ | data-pipeline, data-visualization, ml-model-training, nlp-processing, computer-vision |
+| 🔒 **安全** | 80+ | security-scanner, vulnerability-check, penetration-testing, authentication-implementation |
+| 🎨 **设计与创意** | 70+ | ui-component, design-system, icon-generator, animation-creator, color-palette |
+| 📝 **内容创作** | 60+ | blog-writer, copywriter, script-generator, video-script, newsletter-creator |
+| 🧪 **测试与 QA** | 50+ | unit-test-generator, e2e-testing, performance-test, api-testing, load-test |
+| 🌐 **国际化与本地化** | 40+ | i18n-translation, locale-adapter, multi-language-support |
+| 🏗️ **项目管理** | 30+ | agile-workflow, sprint-tracker, task-manager, release-planner |
+| 📈 **电商** | 30+ | shopify-integration, woocommerce-setup, ecommerce-optimization, product-listing |
+| 🎮 **游戏开发** | 20+ | unity-script, godot-scene, unreal-blueprint, game-mechanic |
+| 🔧 **其他实用工具** | 400+ | pdf-generator, excel-processor, image-optimizer, file-converter, system-automation, network-tool, browser-extension |
+
+### 17.2 与其他插件的互补关系
+
+openclaw-master-skills 作为通用技能库，与现有专项插件形成互补：
+
+| 对比维度 | openclaw-master-skills | 现有专项插件（Hermes/ECC/Gingiris 等） |
+|---------|----------------------|-----------------------------------|
+| **覆盖面** | 极广（2103 个通用技能） | 较窄但纵深强 |
+| **专业深度** | 中等（适合 80% 场景） | 专家级（适合 20% 高难度场景） |
+| **更新频率** | 每周更新 | 依赖各自项目维护节奏 |
+| **重叠领域** | 前端/后端/DevOps/设计/营销 | 与 Hermes（15+ 重叠）、ECC（10+ 重叠）部分重叠 |
+
+---
+
+## 十八、能力总览矩阵（更新版）
+
+| 能力域 | 技能数 | 来源 |
+|--------|:------:|------|
+| 🛠️ **开发工作流**（Plan/TDD/Review/Branch/Verify）| 14 | Superpowers |
+| 🌐 **浏览器自动化** | 2 | BB Browser |
+| 🎨 **UI/UX 设计**（品牌/设计系统/样式/横幅/幻灯片）| 7+7 | UI-UX Pro Max + UI-UX Pro Max Skill |
+| 📈 **ASO & App 增长** | 3 | Gingiris |
+| 🔍 **SEO & GEO**（排名/AI引用/Agent运维）| 5 | Gingiris |
+| 📊 **竞品分析**（扫描/飞轮/传播链）| 3 | Gingiris |
+| 🚀 **产品发布**（GTM/PH Launch/全球出海）| 6 | Gingiris |
+| 💼 **B2B & SaaS 增长**（PLG/定价/营销栈）| 6 | Gingiris |
+| 🌟 **开源营销 & GitHub Stars** | 4 | Gingiris |
+| 👥 **社区运营**（大使/DevRel/社群）| 4 | Gingiris |
+| 📝 **内容营销**（博客/社媒蒸馏/README/病毒）| 6 | Gingiris |
+| 🤝 **KOL & 用户研究**（拓展/访谈/PMF）| 4 | Gingiris |
+| 🧠 **增长策略**（路由器/50手段/飞轮评分）| 4 | Gingiris |
+| 📋 **通用营销 Playbooks** | 10 | Gingiris |
+| 🤖 **AI Agent 工作流** | 2 | Gingiris |
+| 🔄 **VibeCoding 全流程**（初始化→规划→执行→审查→恢复）| 6 | Rlues VibeCoding |
+| 🏗️ **工程开发框架**（调研/UI设计/技术评估）| 3 + 12 Agents | CataForge |
+| 📑 **SOP 开发框架**（分析/设计/开发/评审/知识库）| 6 | Sopify |
+| 🧩 **Hermes 专属领域**（50+ 细分领域专项技能）| 309 | Hermes Skills |
+| 📡 **百度 API 系列**（搜索/地图/SEO/IP/天气/百科）| 11 | GitHubM |
+| 🎨 **AI 图像/视频生成**（Sora/Kling/MiniMax/文心）| 16 | GitHubM |
+| 📄 **OCR 识别**（身份证/票据/车票/通用）| 9 | GitHubM |
+| 💹 **金融行情**（股票/汇率/贵金属）| 3 | GitHubM |
+| 🏢 **企业信息查询**（工商/招聘/专利）| 3 | GitHubM |
+| 🌍 **翻译 & 语音**（翻译/TTS/识别）| 4 | GitHubM |
+| 🔥 **热搜 & 生活服务**（热搜/快递/限行/彩票/驾考）| 6 | GitHubM |
+| 🎯 **百项实用 API 工具** | 69 | GitHubM |
+| ⚙️ **工程能力全集**（Agent架构/TDD/安全/DevOps/性能）| **277** | **ECC（新增）** |
+| 🎨 **前端设计精炼**（UX审查/视觉层次/微交互/动效）| **1** | **impeccable（新增）** |
+| 🔄 **智能工作流生态**（HRBP/Crew管理/IT运维/SEO）| **19** | **wiseflow（新增）** |
+| 📱 **小红书内容发布**（图文/长文/自动提取）| **1** | **xiaohongshu-mcp（新增）** |
+| 🌌 **开放技能宇宙**（AI工具/前后端/DevOps/营销/电商等）| **2103** | **openclaw-master-skills（新增）** |
+
+---
+
+## 十九、交叉能力分析（更新版）
+
+| 现有需求 | 可调用的 Skill（含新增） | 匹配度 |
+|---------|------------------------|:------:|
+| **爬虫开发与调试** | systematic-debugging, bb-browser, cataforge-research, ecc (browser-qa, api-connector-builder) | ⭐⭐⭐⭐⭐ |
+| **看板 UI 美化** | ui-styling, design, design-system, brand, cataforge-ui-design, **impeccable** | ⭐⭐⭐⭐⭐ |
+| **新功能实现** | writing-plans, test-driven-development, dispatching-parallel-agents, vibecoding-workflow, cataforge-tech-eval, **ecc (test-driven-development, code-review)** | ⭐⭐⭐⭐⭐ |
+| **竞品分析** | gr-competitor, competitor-research-playbook, cataforge-research, wiseflow (smart-search) | ⭐⭐⭐⭐⭐ |
+| **SEO 优化（项目官网）** | gingiris-seo-geo, gr-seo-patrol, **wiseflow (seo)** | ⭐⭐⭐⭐⭐ |
+| **代码审查** | requesting-code-review, receiving-code-review, sopify-cross-review, **ecc (code-review, security-audit)** | ⭐⭐⭐⭐⭐ |
+| **用户反馈分析** | gingiris-user-interview, gr-user-interview, cataforge-research | ⭐⭐⭐⭐ |
+| **开源项目推广** | gingiris-opensource, gingiris-github-star-growth | ⭐⭐⭐⭐ |
+| **README 优化** | gr-readme | ⭐⭐⭐⭐⭐ |
+| **全流程开发（需求→设计→编码→审查）** | vibecoding-init → vibecoding-plan → vibecoding-execute → vibecoding-review, **ecc (agent-architecture-audit → test-driven-development → code-review → finishing-a-development-branch)** | ⭐⭐⭐⭐⭐ |
+| **方案设计与任务拆分** | sopify-analyze, sopify-design, sopify-develop, **wiseflow (complex-task)** | ⭐⭐⭐⭐⭐ |
+| **知识库管理** | sopify-kb, sopify-templates, ecc (knowledge-base-creation, documentation-generation) | ⭐⭐⭐⭐⭐ |
+| **技术选型调研** | cataforge-research, cataforge-tech-eval, **wiseflow (smart-search)** | ⭐⭐⭐⭐⭐ |
+| **UI 设计系统搭建** | cataforge-ui-design, ui-styling, design-system, **impeccable**, **ecc (design-system, css-architecture)** | ⭐⭐⭐⭐⭐ |
+| **断点恢复（长任务）** | rlues-vibecoding-vibecoding-recovery | ⭐⭐⭐⭐⭐ |
+| **百度 API 集成**（搜索/地图/地理编码） | githubm-baidu-search, githubm-baidu-geocoding, githubm-baidu-poi-detail | ⭐⭐⭐⭐⭐ |
+| **OCR 识别需求**（身份证/票据/车票） | githubm-id-card-ocr, githubm-train-ticket-ocr, githubm-accurate-ocr | ⭐⭐⭐⭐⭐ |
+| **AI 图片/视频生成**（营销素材/封面） | githubm-image-generation-advanced, githubm-text-to-video, githubm-kling-video-generation, **openclaw (ai-image-generator, video-creator)** | ⭐⭐⭐⭐⭐ |
+| **翻译需求**（多语言/国际化） | githubm-text-translation, **openclaw (i18n-translation, multi-language-support)** | ⭐⭐⭐⭐⭐ |
+| **股票/金融行情查询** | githubm-stock-realtime-quote, githubm-currency-exchange-rate | ⭐⭐⭐⭐ |
+| **企业信息调研**（竞品公司/招聘/专利） | githubm-company-info-lookup, githubm-company-hiring-data, githubm-patent-search | ⭐⭐⭐⭐ |
+| **Agent 系统设计与编排**（新增） | **ecc (agent-harness-construction, agent-architecture-audit, autonomous-agent-harness)** | ⭐⭐⭐⭐⭐（新增） |
+| **阿里云/腾讯云基础设施管理**（新增） | **wiseflow (alicloud-find-skills, tccli, icp-filing, icp-exemption)** | ⭐⭐⭐⭐⭐（新增） |
+| **小红书社媒运营**（新增） | **xiaohongshu-mcp (post-to-xhs)** | ⭐⭐⭐⭐⭐（新增） |
+| **HRBP/AI Crew 人员管理**（新增） | **wiseflow (hrbp-list, hrbp-recruit, hrbp-modify, hrbp-remove, crew-list, crew-recruit)** | ⭐⭐⭐⭐⭐（新增） |
+| **前端界面深度打磨**（新增） | **impeccable**（UX审查/视觉层次/动效/无障碍/信息架构全链路） | ⭐⭐⭐⭐⭐（新增） |
+| **通用全栈开发（任何语言/框架）**（新增） | **openclaw-master-skills**（2103 个通用技能覆盖 80% 开发场景）+ **ecc**（工程实践）| ⭐⭐⭐⭐⭐（新增） |
+
+---
+
+## 二十、全局技能生态总览
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                   全局 Skill 生态（2813+ 技能）                    │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   🎯 增长与营销 (Gingiris 58 + GitHubM 69)                      │
+│   ├─ SEO/GEO 双引擎 · ASO · B2B SaaS · PH Launch               │
+│   ├─ 竞品扫描 · KOL 拓展 · UGC 矩阵 · 社媒蒸馏                  │
+│   └─ 百度 API · AI 生成 · OCR · 金融行情 · 生活服务              │
+│                                                                 │
+│   ⚙️ 工程与开发 (ECC 277 + Hermes 309 + CataForge 3)           │
+│   ├─ Agent 架构 · TDD · 代码审查 · 安全审计 · DevOps             │
+│   ├─ 全栈工程 · MLOps · 游戏开发 · 移动端 · 学术研究             │
+│   └─ 工程框架 · 技术评估 · 调查研究 · UI 设计                    │
+│                                                                 │
+│   🎨 设计与体验 (UI-UX Pro Max 7+7 + impeccable 1)             │
+│   ├─ 品牌设计 · 设计系统 · UI 样式 · 横幅 · 幻灯片               │
+│   └─ 前端精炼 · UX 审查 · 视觉层次 · 动效 · 微交互               │
+│                                                                 │
+│   🔄 开发工作流 (Superpowers 14 + VibeCoding 6 + Sopify 6)     │
+│   ├─ Plan · TDD · Review · Branch · Verify · Parallel           │
+│   ├─ 初始化 → 规划 → 执行 → 审查 → 恢复                         │
+│   └─ 分析 → 设计 → 开发 → 评审 → 知识库                         │
+│                                                                 │
+│   🌌 通用技能宇宙 (openclaw-master-skills 2103)                 │
+│   ├─ AI 工具 · 前端 · 后端 · DevOps · 安全 · 测试               │
+│   ├─ 数据 · 移动端 · 电商 · 游戏 · 内容创作                     │
+│   └─ 实用工具 · 国际化 · 项目管理 · 设计 · 营销                 │
+│                                                                 │
+│   🔧 智能工作流 (wiseflow 19)                                    │
+│   ├─ HRBP 管理 · Crew 协同 · 招募/解聘/修改                     │
+│   ├─ IT 运维 · ICP 备案 · 阿里云/腾讯云                          │
+│   └─ 定时提醒 · 频道绑定 · SEO · 智能搜索                       │
+│                                                                 │
+│   🌐 浏览器与数据 (BB Browser 2 + xiaohongshu-mcp 1)            │
+│   ├─ 浏览器自动化 · 网页操作 · 数据采集                         │
+│   └─ 小红书发布 · 图文/长文 · MCP 服务器                        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 更新日志
+
+| 版本 | 日期 | 变更内容 |
+|:----:|:----:|---------|
+| v1.0 | 2026-07-03 | 初始版本（10 插件 / 474 技能） |
+| **v2.0** | **2026-07-03** | **新增 5 插件：ECC(277) + impeccable(1) + wiseflow(19) + xiaohongshu-mcp(1) + openclaw-master-skills(2103) → 总计 2813+ 技能** |

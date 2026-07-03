@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-aso-growth"
+name: gingiris-aso-growth
 description: |
   🇺🇸 ASO & Mobile App Growth Playbook 2026 — Complete App Store Optimization guide. ASO keyword ranking, App Store & Google Play listing optimization, app cold start, UGC creator operations, TikTok/Instagram/YouTube Shorts marketing, AI-matrix content scaling, mobile user acquisition.
   

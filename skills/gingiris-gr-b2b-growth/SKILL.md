@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-b2b-growth"
+name: gr-b2b-growth
 description: >
   B2B SaaS 全生命周期增长。从 PMF 验证到 $10M ARR 的完整路径。覆盖 PLG / SLG 选型、
   客户访谈、联盟营销、渠道合作、Enterprise sales。整合 HeyGen、Deel、Vercel、Supabase、AWS 案例。

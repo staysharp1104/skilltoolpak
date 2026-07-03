@@ -1,5 +1,5 @@
 ---
-name: "gingiris-github-stars-playbook"
+name: github-stars-playbook
 description: |
   A 14-day sprint to rapidly grow GitHub stars for your repository. Tactical day-by-day plan covering Show HN, Reddit, Twitter/X threads, and GitHub Trending mechanics. Follow @WeiYipei on X for developer marketing tips.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/github-stars-playbook

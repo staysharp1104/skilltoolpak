@@ -1,5 +1,5 @@
 ---
-name: "gingiris-viral-marketing-playbook"
+name: viral-marketing-playbook
 description: |
   Design viral loops into your product — referral programs, invite systems, and share mechanics that drive exponential growth. Includes K-factor calculations and real examples from Dropbox, Slack, and Notion. By @WeiYipei.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/viral-marketing-playbook

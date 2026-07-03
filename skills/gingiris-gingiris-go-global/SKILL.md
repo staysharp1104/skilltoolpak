@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-go-global"
+name: gingiris-go-global
 version: 1.0.0
 description: |
   🇺🇸 AI Product / SaaS Go-Global Complete SOP — From competitor research to launch to monetization. A full-cycle playbook covering Phase 0-5 (market validation, positioning, first 100 users, user interviews, beta-to-growth) plus open-source launch, Product Hunt, Reddit, SEO/GEO, conversion, and org principles. **Defaults to dev tools / OSS / B2B SaaS; for 2C products (education, apps, games) the launch channels & metrics differ — see gingiris-seo-geo/references/2c-adaptation.md.**

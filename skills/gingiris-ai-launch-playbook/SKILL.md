@@ -1,5 +1,5 @@
 ---
-name: "gingiris-ai-launch-playbook"
+name: "AI Product Global Launch Playbook"
 version: 1.0.0
 description: Launch your AI product to global attention — the playbook behind Manus, Devin, and AFFiNE's breakout launches. Covers AI-specific GTM strategy, hype cycle management, waitlist tactics, and multi-market rollout for maximum day-one impact.
 author: Gingiris

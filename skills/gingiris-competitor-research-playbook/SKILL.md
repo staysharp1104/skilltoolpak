@@ -1,5 +1,5 @@
 ---
-name: "gingiris-competitor-research-playbook"
+name: competitor-research-playbook
 version: 1.1.0
 description: |
   Your competitor just launched. You have no idea how they grew so fast. Should you reverse-engineer their website? Track their social media? Map their growth flywheel? This gives you the complete SOP — from Wayback Machine snapshots to X/Twitter propagation analysis to growth flywheel scoring. Built from 150+ AI startup competitive analyses including the Lovable case study (4.3M views, 229K impressions launch day). By @WeiYipei.

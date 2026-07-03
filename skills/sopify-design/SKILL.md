@@ -1,5 +1,5 @@
 ---
-name: "sopify-design"
+name: design
 description: 方案设计阶段入口；聚合方案分级、任务拆分与方案包输出规则，按需加载 references/assets/scripts。
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-seo-geo-agent"
+name: gr-seo-geo-agent
 description: |
   You know SEO matters but you don't have time to do daily audits, track rankings, or validate schema markup. This is the AI agent SOP — set it up once, let your coding agent run it daily on autopilot.
 

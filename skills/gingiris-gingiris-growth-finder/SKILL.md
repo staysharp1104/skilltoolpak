@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-growth-finder"
+name: gingiris-growth-finder
 description: |
   🇺🇸 Gingiris Growth Finder — Meta-router that diagnoses growth problems and invokes the right playbook. Auto-triggers on any growth question: Product Hunt launch, GitHub stars, B2B SaaS PLG, ASO, app cold start, KOL outreach, OSS marketing, GTM strategy, customer acquisition, retention, PMF validation, virality. Routes to the matching Gingiris playbook skill (launch / opensource / b2b-growth / aso-growth) based on product type, stage, and channel fit. Use whenever the user asks "how do I grow X" or "how do I launch X" — this skill picks the right specialist. **Includes Step 0 growth model selector: B2B SaaS (pipeline→MQL→SQL), B2C App (activation→retention→D1/D7/D30).**
 

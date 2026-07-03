@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-oss-marketing"
+name: gr-oss-marketing
 description: >
   开源项目发布整合营销。覆盖 GitHub star 增长、KOL 合作、Reddit / HN / Discord / Telegram 社群分发、
   多语言落地（中英日韩）。从 gingiris-opensource 提炼。适用场景：要发布一个开源项目，

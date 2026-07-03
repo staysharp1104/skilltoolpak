@@ -1,5 +1,5 @@
 ---
-name: "gingiris-community-building-playbook"
+name: community-building-playbook
 description: >
   Build and grow developer and user communities from scratch — covering ambassador programs,
   community-led growth (CLG), event operations, content strategy, and health metrics.

@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-seo-geo"
+name: gingiris-seo-geo
 description: |
   🇺🇸 SEO & GEO Dual-Engine Playbook 2026 — Rank on Google AND get cited by AI search (ChatGPT, Perplexity, Claude, Gemini). Battle-tested from AFFiNE (60k GitHub stars in 24 months) and 150+ AI startup consultations. E-E-A-T writing voice system, keyword funnel strategy, JSON-LD schema templates, comparison page SOP, IndexNow setup, Generative Engine Optimization content patterns. **Optimized for dev tools / OSS / B2B SaaS. 2C products (education, apps, games): see 2c-adaptation guide in references/.**
 

@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-b2b-growth"
+name: gingiris-b2b-growth
 description: |
   🇺🇸 B2B SaaS Growth — PLG vs SLG Playbook — Diagnose whether your problem is distribution, pricing, or PMF. PLG/SLG selection by ACV and sales cycle, the 5-stage path from $0 to $10M ARR, NRR discipline, affiliate & channel motion, enterprise tiering. Built from HeyGen, Deel, Vercel, Supabase, Snowflake patterns.
 

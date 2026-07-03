@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-ugc-matrix"
+name: gingiris-ugc-matrix
 description: |
   🇺🇸 UGC Matrix Growth Playbook — Scale user-generated content with AI + real creators. Complete SOP for UGC flywheel, creator recruitment, incentive design, multi-platform publishing. Proven at CPM $0.5, $10M ARR in 60 days with 70M impressions. Kuse case study included.
 

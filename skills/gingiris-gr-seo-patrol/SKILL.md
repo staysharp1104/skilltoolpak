@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-seo-patrol"
+name: gr-seo-patrol
 description: >
   每日 SEO/GEO 巡逻（2026-06-24 标准）。覆盖：SERP 关键词排名追踪（DataForSEO / volume 300-1000 / KD 5-35）、
   Google 索引数统计、llms.txt 可达性、GA4 tag 部署检测及 AI 来源 channel 配置、

@@ -1,5 +1,5 @@
 ---
-name: "sopify-templates"
+name: templates
 description: 文档模板集合；创建文档时读取；包含所有知识库模板和方案文件模板
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: "gingiris-startup-growth-playbook"
+name: startup-growth-playbook
 description: |
   Seed-stage growth playbook focused on channel selection and prioritization. Helps founders with product-market fit decide where to invest limited resources for maximum traction. By @WeiYipei.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/startup-growth-playbook

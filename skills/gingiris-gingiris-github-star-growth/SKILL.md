@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gingiris-github-star-growth"
+name: gingiris-github-star-growth
 description: |
   🇺🇸 GitHub Star Sustained Growth Playbook — Monthly 300+ star growth SOP. Content rhythm, community ops, event-driven growth, contributor & ambassador systems. Battle-tested: AFFiNE 0→60K+, Client Project A 0→10K stars.
   

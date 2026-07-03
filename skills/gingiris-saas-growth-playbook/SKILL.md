@@ -1,5 +1,5 @@
 ---
-name: "gingiris-saas-growth-playbook"
+name: saas-growth-playbook
 description: |
   The revenue-focused SaaS playbook for going from $0 to $50K MRR. Covers pricing experiments, churn reduction, activation optimization, and expansion revenue tactics. Follow @WeiYipei on X for SaaS growth insights.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/saas-growth-playbook

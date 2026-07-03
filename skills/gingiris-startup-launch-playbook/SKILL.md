@@ -1,5 +1,5 @@
 ---
-name: "gingiris-startup-launch-playbook"
+name: startup-launch-playbook
 description: |
   A step-by-step playbook for early-stage startups going from pre-seed to their first 1000 users. Covers MVP validation, initial traction channels, and founder-led growth tactics. By @WeiYipei — follow on X for more startup growth insights.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/startup-launch-playbook

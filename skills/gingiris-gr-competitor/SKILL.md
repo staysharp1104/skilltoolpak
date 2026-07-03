@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-competitor"
+name: gr-competitor
 description: >
   竞品深度扫描。批量抓取对手落地页（title/h1/intro/pricing）、定价页、博客 top 10、
   变更历史（Wayback）。底层调 actionbook（并发 30 tab + 省 90% token）。

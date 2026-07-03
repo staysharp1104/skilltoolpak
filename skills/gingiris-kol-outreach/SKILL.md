@@ -1,5 +1,5 @@
 ---
-name: "gingiris-kol-outreach"
+name: kol-outreach
 description: |
   Ready-to-use KOL cold outreach templates — DM scripts for Twitter, email pitches, and follow-up sequences designed to get replies from busy influencers. Tested across 500+ creator partnerships. By @WeiYipei.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/kol-outreach

@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-backlinks"
+name: gr-backlinks
 description: >
   Systematic backlink building for indie founders. Covers 5 channel types ranked by GEO + SEO ROI:
   Wikipedia (entities), authoritative media (PR), industry reviews (G2/Capterra/Product Hunt),

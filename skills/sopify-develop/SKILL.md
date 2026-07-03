@@ -1,5 +1,5 @@
 ---
-name: "sopify-develop"
+name: develop
 description: 开发实施阶段入口；聚合任务执行、状态更新、知识库同步与收尾迁移规则，按需加载 references/assets/scripts。
 ---
 

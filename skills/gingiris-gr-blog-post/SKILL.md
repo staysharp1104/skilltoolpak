@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-blog-post"
+name: gr-blog-post
 description: >
   Jekyll 博客发布流水线：按 Iris 文风（时间锚定开场、括号旁白、em-dash 转折、Key Stats 表格）生成文章，
   附带 frontmatter（title / date / canonical_url / hreflang_ja / hreflang_ko / FAQ schema）、

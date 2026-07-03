@@ -1,5 +1,5 @@
 ---
-name: "gingiris-growth-hacking-playbook"
+name: growth-hacking-playbook
 description: |
   50 growth hacking tactics ranked by effort vs impact. Each experiment includes setup instructions, expected timeline, and success metrics. Data-driven prioritization for resource-constrained startups. Follow @WeiYipei on X.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/growth-hacking-playbook

@@ -1,5 +1,5 @@
 ---
-name: "gingiris-ai-product-launch"
+name: ai-product-launch
 description: |
   First AI Product Launch — Zero to Live in 30 Days. Step-by-step guide for shipping your first AI product from idea validation to paying customers. Includes day-by-day timeline and real examples. By @WeiYipei.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/ai-product-launch

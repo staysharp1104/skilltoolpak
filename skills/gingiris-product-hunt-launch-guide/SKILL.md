@@ -1,5 +1,5 @@
 ---
-name: "gingiris-product-hunt-launch-guide"
+name: product-hunt-launch-guide
 description: |
   The complete first-timer's guide to launching on Product Hunt. Covers timing, hunter selection, asset prep, launch-day engagement, and post-launch follow-up. Follow @WeiYipei on X for more launch strategies.
 source: https://github.com/Gingiris-1031/gingiris-skills/tree/main/skills/product-hunt-launch-guide

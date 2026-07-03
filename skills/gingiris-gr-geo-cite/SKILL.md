@@ -1,5 +1,5 @@
 ---
-name: "gingiris-gr-geo-cite"
+name: gr-geo-cite
 description: >
   GEO (Generative Engine Optimization) 引用追踪 + 优化（2026-06-24 标准）。每周对 4 大 AI（Claude/GPT/Perplexity/Gemini）
   跑固定查询，检测回答里是否引用目标域名。对未被引用的页面补 Citable Statistics + AI 友好格式（一句话答+表格+FAQ）。
