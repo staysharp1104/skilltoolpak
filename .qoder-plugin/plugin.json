@@ -1,0 +1,23 @@
+{
+  "name": "coder-skill-toolkit",
+  "displayName": "Coder Skill Toolkit — 全能技能工具包",
+  "version": "2.0.0",
+  "description": "All-in-one skill toolkit aggregating 474 skills from 10 plugins.",
+  "descriptionZh": "全能技能工具包 v2。聚合全部 10 款插件的 474 个技能，一包安装全量可用。",
+  "author": {
+    "name": "Coder Toolkit"
+  },
+  "keywords": [
+    "qoder-plugin",
+    "skill",
+    "toolkit",
+    "all-in-one"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "skill",
+    "toolkit",
+    "all"
+  ],
+  "skills": "./skills/"
+}
